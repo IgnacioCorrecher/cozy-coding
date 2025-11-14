@@ -1,7 +1,7 @@
 # Cozy Coding Projects
 
 <p align="center">
-  <img src="cozy-coding.webp" width="600" />
+  <img src="header.jpg" width="600" />
 </p>
 
 Welcome to my **Cozy Coding** repository — a collection of small, silent-coding projects designed for peaceful learning, relaxing vibes, and simple creativity.  
